@@ -67,13 +67,13 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=dinethmeditha&amp;theme=tokyonight&amp;hide_border=true" alt="Streak Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="Top Languages" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&amp;theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br>
@@ -88,7 +88,7 @@
 <!-- Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dinethmeditha&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dinethmeditha&amp;theme=tokyonight&amp;no-frame=true&amp;margin-w=15" alt="Trophies" />
   </a>
 </div>
 
