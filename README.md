@@ -1,14 +1,12 @@
 <!-- Animated Header with Gradient Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Dineth%20Meditha&fontSize=90&fontAlign=50&fontAlignY=35&desc=Where%20Hardware%20Meets%20Intelligence&descSize=24&descAlign=50&descAlignY=55&animation=twinkling&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Dineth%20Meditha&fontSize=90&fontAlign=50&fontAlignY=35&desc=Computer%20Engineering%20Undergraduate&descSize=24&descAlign=50&descAlignY=55&animation=twinkling&fontColor=fff"/>
 </div>
 
 <!-- Dynamic Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer+%7C+AI+Engineer;Building+Intelligent+IoT+Solutions;Transforming+Ideas+into+Reality" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+IoT+Solutions;Transforming+Ideas+into+Reality" alt="Typing Animation" />
 </p>
-
-
 
 ---
 
@@ -32,7 +30,7 @@
         <a href="mailto:dinethmeditha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
         <a href="https://github.com/dinethmeditha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
       </td>
-      <td width="40%" align="center" valign="bottom">
+      <td width="40%" align="center" valign="center">
         <img src="robo.gif" width="100%" alt="Robo"/>
       </td>
     </tr>
@@ -105,15 +103,24 @@
 <h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -125,14 +132,6 @@
 
 ---
 
-<!-- Trophy Section -->
-<h2 align="center">Achievements</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dinethmeditha&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="98%" />
-</div>
-
----
 
 <!-- Snake Animation -->
 <div align="center">
@@ -144,47 +143,10 @@
 </div>
 
 ---
-
-<!-- Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
----
-
-<!-- Current Focus -->
-<h2 align="center">Current Focus</h2>
-
-<div align="center">
-  
-```yaml
-Working on: AI-powered IoT Solutions & Smart Automation
-Learning: Advanced Deep Learning & Edge Computing
-Looking to collaborate on: Open Source AI & IoT Projects
-Ask me about: Python, React, Arduino, Machine Learning
-Fun fact: I turn coffee into code and ideas into reality!
-```
-
-</div>
-
----
-
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dinethmeditha">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlign=50&fontAlignY=70&fontColor=fff&animation=twinkling&desc=Let's%20build%20something%20amazing%20together%20💻&descSize=16&descAlign=50&descAlignY=90"/>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+for+collaborations+and+opportunities;📧+Feel+free+to+reach+out+anytime!" />
 </p>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlign=50&fontAlignY=70&fontColor=fff&animation=twinkling&desc=Let's%20build%20something%20amazing%20together%20&descSize=16&descAlign=50&descAlignY=90"/>
+</div>
