@@ -1,17 +1,17 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dineth%20Meditha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=250&section=header&text=Dineth%20Meditha&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Embedded%20Systems&descAlignY=55&descAlign=50&fontColor=e2e8f0"/>
 </div>
 
 <!-- Typing Animation & Intro -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3572A5&center=true&vCenter=true&width=600&lines=Undergraduate+at+KDU;AI+%26+Machine+Learning+Enthusiast;Embedded+Systems+%26+IoT+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Embedded+Systems+%26+IoT+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  I am an undergraduate at <b>General Sir John Kotelawala Defence University (KDU)</b>, passionate about bridging the gap between hardware and software. My focus lies in <b>Artificial Intelligence</b>, <b>Embedded Systems </b>, and building scalable <b>Web Applications</b>.
+  I am a <b>Undergraduate</b> at <b>General Sir John Kotelawala Defence University (KDU)</b>, passionate about bridging the gap between hardware and software. My focus lies in <b>Artificial Intelligence</b>, <b>Embedded Systems & IoT Devices</b>, and building scalable <b>Web Applications</b>.
 </p>
 
 <!-- Socials -->
@@ -28,16 +28,6 @@
 </div>
 
 ---
-
-<!-- Portfolio Highlight -->
-<h2 align="center">🌐 Portfolio Highlight</h2>
-<div align="center">
-  <a href="https://dineth-meditha.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/600/https://dineth-meditha.vercel.app/" alt="Portfolio Preview" width="100%" />
-  </a>
-</div>
-
-<br>
 
 <!-- Tech Stack -->
 <h2 align="center">⚡ Tech Stack</h2>
@@ -77,11 +67,13 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <br>
@@ -96,7 +88,7 @@
 <!-- Trophies -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dinethmeditha&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dinethmeditha&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -104,5 +96,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer"/>
 </div>
