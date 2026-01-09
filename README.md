@@ -106,18 +106,18 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+        <img src="https://streak-stats.demolab.com?user=dinethmeditha&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=FF6B6B&amp;currStreakLabel=00D9FF" />
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=FFFFFF&amp;langs_count=8" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFFFFF" />
       </td>
     </tr>
   </table>
@@ -127,7 +127,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&theme=radical" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&amp;theme=radical" width="98%" />
 </div>
 
 ---
@@ -144,7 +144,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+for+collaborations+and+opportunities;📧+Feel+free+to+reach+out+anytime!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Star+my+repos+if+you+find+them+useful!;Open+for+collaborations+and+opportunities;Feel+free+to+reach+out+anytime!" />
 </p>
 <!-- Footer -->
 <div align="center">
