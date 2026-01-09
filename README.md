@@ -105,33 +105,15 @@
 <div align="center">
   <table border="0">
     <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=dinethmeditha&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=FFFFFF" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=dinethmeditha&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=00D9FF&amp;fire=FF6B6B&amp;currStreakLabel=00D9FF" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinethmeditha&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=FFFFFF&amp;langs_count=8" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFFFFF" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
       </td>
     </tr>
   </table>
 </div>
-
-<br/>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&amp;theme=radical" width="98%" />
-</div>
-
----
-
 
 <!-- Snake Animation -->
 <div align="center">
