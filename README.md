@@ -86,18 +86,11 @@
 
 <!-- GitHub Stats Section with Enhanced Layout -->
 <h2 align="center">GitHub Analytics</h2>
-
 <div align="center">
   <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinethmeditha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-        </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dinethmeditha&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-      </td>
-    </tr>
-  </table>
+    <tr><td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinethmeditha&theme=radical" alt="GitHub Stats" /></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinethmeditha&theme=radical" width="98%" alt="Contribution Graph" /></td></tr></table>
 </div>
 
 <!-- Snake Animation -->
