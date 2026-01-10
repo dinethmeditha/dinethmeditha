@@ -1,40 +1,25 @@
 <!-- Animated Header with Gradient Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=Dineth%20Meditha&fontSize=90&fontAlign=50&fontAlignY=35&desc=Computer%20Engineering%20Undergraduate&descSize=24&descAlign=50&descAlignY=55&animation=twinkling&fontColor=fff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=70&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+IoT+Solutions;Transforming+Ideas+into+Reality" alt="Typing Animation" />
 </div>
-
-<!-- Dynamic Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=150&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+IoT+Solutions;Transforming+Ideas+into+Reality" alt="Typing Animation" />
-</p>
-
----
-
 <!-- About Me Section with Grid Layout -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%" align="left">
-        <h3>About Me</h3>
-        <p>
-          <b>Computer Engineering Undergraduate</b> at <b>KDU</b> (General Sir John Kotelawala Defence University)<br>
-          Passionate about <b>Artificial Intelligence</b> & <b>Machine Learning</b><br>
-          Building smart <b>IoT Solutions</b> & <b>Embedded Systems</b><br>
-          Creating scalable <b>Web Applications</b><br>
-          Always learning, always building<br>
-          Based in Sri Lanka
-        </p>
-        <h3>Connect</h3>
-        <a href="https://dineth-meditha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-        <a href="https://www.linkedin.com/in/dineth-meditha-68845221a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="mailto:dinethmeditha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-        <a href="https://github.com/dinethmeditha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-      </td>
-      <td width="40%" align="center" valign="center">
-        <img src="robo.gif" width="100%" alt="Robo"/>
-      </td>
-    </tr>
-  </table>
+<div align="left">
+  <img src="robo.gif" align="right" width="40%" alt="Robo"/>
+  <h3>About Me</h3>
+  <p>
+    <b>Computer Engineering Undergraduate</b> at <b>KDU</b> (General Sir John Kotelawala Defence University)<br>
+    Passionate about <b>Artificial Intelligence</b> & <b>Machine Learning</b><br>
+    Building smart <b>IoT Solutions</b> & <b>Embedded Systems</b><br>
+    Creating scalable <b>Web Applications</b><br>
+    Always learning, always building<br>
+    Based in Sri Lanka
+  </p>
+  <h3>Connect</h3>
+  <a href="https://dineth-meditha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/dineth-meditha-68845221a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dinethmeditha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dinethmeditha"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br clear="both"/>
